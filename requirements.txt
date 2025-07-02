@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch
+torchvision
+timm==0.4.9
+numpy
+scipy
+imgaug
+pillow
+matplotlib
+hub
+pandas
+six
+wandb
+tqdm
